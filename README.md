@@ -102,12 +102,4 @@ ML-Based-Crop-Recommendation-System/
 * Add **user authentication** to save crop recommendations.
 * Expand dataset to **support more crops and conditions**.
 
----
-
-## ⚡ Author
-
-**Atharva Sagane**
-
-* GitHub: [github.com/AtharvaSagane](https://github.com/AtharvaSagane)
-* Passionate about **ML + Web Development + Competitive Programming**.
 
